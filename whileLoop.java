@@ -8,12 +8,12 @@ public class whileLoop {
 
             i++;
 
-            int j = 5;
+            int j = 1;
 
-            while (j >= 4) {
+            while (j <= 2) {
                 System.out.println("hello");
 
-                j--;
+                j++;
             }
         }
     }
