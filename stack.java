@@ -14,7 +14,7 @@ public class stack {
     public static void main(String args [])
     {
 
-        int data = 10;
+        // int data = 10;
 
         // Calculator objCalc = new Calculator();
         // Calculator objCalc1 = new Calculator();
