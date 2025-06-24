@@ -1,7 +1,7 @@
 public class threeDimensional {
     public static void main(String args [])
     {
-        int nums[][][] = new int[2][3][2];
+        int nums[][][] = new int[4][3][3];
         // nums[0] = new int[3];
         // nums[1] = new int[4];
         // nums[2] = new int[1];
