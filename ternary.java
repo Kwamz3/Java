@@ -1,5 +1,5 @@
 public class ternary {
-   public static void main(String args [])
+   public static void main(String[] args)
    {
        int n = 5;
        int result = 0;
